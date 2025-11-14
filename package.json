@@ -3,15 +3,17 @@
   "displayName": "Azeny Theme",
   "description": "A Dark Theme",
   "version": "0.1.5",
-  "publisher": "Azeny",
-  "license": "MIT",
+  "publisher": "João Pedro Alvarenga",
+  "license": "",
+   "engines": {
+    "vscode": "^1.106.0"
+  },
   "icon": "assets/logo.png",
   "scripts": {
+    "dev": "node ./createTheme.js",
     "publish": "vsce publish"
   },
-  "engines": {
-    "vscode": "^1.41.0"
-  },
+
   "categories": [
     "Themes"
   ],
@@ -35,8 +37,14 @@
       {
         "label": "Azeny Okano",
         "uiTheme": "vs-dark",
-        "path": "./themes/okano.json"
+        "path": "./themes/azeny-okano.json"
+      },
+      {
+        "label": "Azeny Cuti",
+        "uiTheme": "vs-dark",
+        "path": "./themes/azeny-cuti.json"
       }
+
     ]
   },
   "repository": {
