@@ -2,11 +2,11 @@
   "name": "azeny",
   "displayName": "Azeny Theme",
   "description": "A Dark Theme",
-  "version": "0.1.5",
-  "publisher": "João Pedro Alvarenga",
+  "version": "0.1.8",
+  "publisher": "Azeny",
   "license": "",
    "engines": {
-    "vscode": "^1.106.0"
+    "vscode": "^1.41.0"
   },
   "icon": "assets/logo.png",
   "scripts": {
