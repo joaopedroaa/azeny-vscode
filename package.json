@@ -40,9 +40,9 @@
         "path": "./themes/azeny-okano.json"
       },
       {
-        "label": "Azeny Cuti",
+        "label": "Azeny Cutimaru",
         "uiTheme": "vs-dark",
-        "path": "./themes/azeny-cuti.json"
+        "path": "./themes/azeny-cutimaru.json"
       }
 
     ]
