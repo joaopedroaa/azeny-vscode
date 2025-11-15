@@ -5,15 +5,16 @@
   "version": "0.1.8",
   "publisher": "Azeny",
   "license": "",
-   "engines": {
+  "type": "module",
+  "engines": {
     "vscode": "^1.41.0"
   },
   "icon": "assets/logo.png",
   "scripts": {
-    "dev": "node ./createTheme.js",
+    "dev": "node ./src/buildThemes.js",
+    "package": "vsce package",
     "publish": "vsce publish"
   },
-
   "categories": [
     "Themes"
   ],
@@ -44,7 +45,6 @@
         "uiTheme": "vs-dark",
         "path": "./themes/azeny-cutimaru.json"
       }
-
     ]
   },
   "repository": {
