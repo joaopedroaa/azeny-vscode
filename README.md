@@ -8,14 +8,16 @@
   Azeny Theme
 </h1>
 
-<p align="center">
+<h6 align="center">
  Dark Theme
-</p>
+</h6>
 
 <p align="center">
-  <img src="https://vsmarketplacebadge.apphb.com/downloads/Azeny.azeny.svg?style=for-the-badge&colorA=21222C&colorB=373841" alt="Downloads">
+  <img src="https://img.shields.io/visual-studio-marketplace/d/Azeny.azeny?style=for-the-badge&colorA=21222C&colorB=00F2A4" alt="Downloads">
 
-  <img src="https://img.shields.io/github/package-json/v/Azeny/vscode-azeny?style=for-the-badge&colorA=21222C&colorB=373841" alt="Version">
+  <img src="https://img.shields.io/visual-studio-marketplace/v/Azeny.azeny?style=for-the-badge&colorA=21222C&colorB=00F2A4" alt="Version">
+
+  <img src="https://img.shields.io/visual-studio-marketplace/r/Azeny.azeny?style=for-the-badge&colorA=21222C&colorB=00F2A4" alt="Rating">
 </p>
 
 <!-- Daqui para cima alterar nos outros arquivos -->
