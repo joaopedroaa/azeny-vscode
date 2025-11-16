@@ -8,12 +8,12 @@ const azenyOkanoTheme = {
     bgHighlight: '#44475a', // Ex: Seleção, Botões, Listas
     bgMedium: '#424450', // Ex: Guias de indentação, Réguas
     bgNotification: '#2b2c39', // Ex: Centro de Notificações
-    bgError: '#1a1d2c',
-    bgInfo: '#1a1d2c',
+    bgError: '#5a1d1d',
+    bgInfo: '#063b49',
     bgWarning: '#352a05',
 
     // --- Textos (Foregrounds) ---
-    fgBright: '#ffffff',
+    fgBright: '#b1b8da',
     fgMuted: '#4D5980', // Ex: Inativo, Comentários
     fgIcon: '#c5c5c5',
 

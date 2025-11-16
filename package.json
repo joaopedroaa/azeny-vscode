@@ -2,7 +2,7 @@
   "name": "azeny",
   "displayName": "Azeny Theme",
   "description": "A Dark Theme",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "publisher": "Azeny",
   "license": "",
   "type": "module",
@@ -12,8 +12,8 @@
   "icon": "assets/logo.png",
   "scripts": {
     "dev": "node ./src/buildThemes.js",
-    "package": "vsce package",
-    "publish": "vsce publish"
+    "pack": "vsce package",
+    "pub": "vsce publish"
   },
   "categories": [
     "Themes"

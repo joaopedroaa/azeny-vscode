@@ -3,22 +3,22 @@ const azenyCutimaruTheme = {
   type: 'dark',
   palette: {
     // --- Fundos (Backgrounds) ---
-    bgDarkest: '#1a1d2c', // Ex: Sidebar, Titlebar, Terminal Black
-    bgDark: '#212537', // Ex: Editor, Painel
+    bgDarkest: '#1F2335', // Ex: Sidebar, Titlebar, Terminal Black
+    bgDark: '#24283B', // Ex: Editor, Painel
     bgHighlight: '#44475a', // Ex: Seleção, Botões, Listas
     bgMedium: '#424450', // Ex: Guias de indentação, Réguas
     bgNotification: '#2b2c39', // Ex: Centro de Notificações
-    bgError: '#1a1d2c',
-    bgInfo: '#1a1d2c',
+    bgError: '#5a1d1d',
+    bgInfo: '#063b49',
     bgWarning: '#352a05',
 
     // --- Textos (Foregrounds) ---
-    fgBright: '#a9b1d6',
+    fgBright: '#b1b8da',
     fgMuted: '#4D5980', // Ex: Inativo, Comentários
     fgIcon: '#c5c5c5',
 
     // --- Acentos (Accents) ---
-    accentPurple: '#bd93f9',
+    accentPurple: '#b9b3ff',
     accentBlue: '#667eea',
     accentBlueDim: '#75beff',
     accentCyan: '#61F0FF',

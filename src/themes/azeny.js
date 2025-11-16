@@ -13,7 +13,7 @@ const azenyTheme = {
     bgWarning: '#352a05',
 
     // --- Textos (Foregrounds) ---
-    fgBright: '#ffffff',
+    fgBright: '#cbd0e6',
     fgMuted: '#4D5980', // Ex: Inativo, Comentários
     fgIcon: '#c5c5c5',
 
