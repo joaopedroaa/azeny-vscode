@@ -103,6 +103,9 @@
     "list.hoverBackground": "#44475a75",
     "list.inactiveSelectionBackground": "#44475a75",
     "list.warningForeground": "#ead266",
+    "list.filterMatchBackground": "#ffffff40",
+    "list.invalidItemForeground": "#b89500",
+    "list.deemphasizedForeground": "#667eea40",
     "listFilterWidget.background": "#1a1d2c",
     "listFilterWidget.noMatchesOutline": "#ff5555",
     "listFilterWidget.outline": "#424450",
@@ -144,7 +147,7 @@
     "settings.textInputBorder": "#1a1d2c",
     "settings.textInputForeground": "#ffffff",
     "sideBar.background": "#1a1d2c",
-    "sideBarSectionHeader.background": "#212537",
+    "sideBarSectionHeader.background": "#1a1d2c",
     "sideBarSectionHeader.border": "#1a1d2c",
     "sideBarTitle.foreground": "#ffffff",
     "statusBar.background": "#1a1d2c",
@@ -208,12 +211,12 @@
     "debugIcon.stepOutForeground": "#75beff",
     "debugIcon.stepOverForeground": "#75beff",
     "debugIcon.stopForeground": "#f48771",
-    "descriptionForeground": "#fffb3",
+    "descriptionForeground": "#c5c5c5",
     "editor.focusedStackFrameHighlightBackground": "#7abd7a4d",
     "editor.inactiveSelectionBackground": "#44475a80",
     "editor.stackFrameHighlightBackground": "#ffff0033",
     "editor.symbolHighlightBackground": "#ffffff40",
-    "editorActiveLineNumber.foreground": "#c6c6c6",
+    "editorActiveLineNumber.foreground": "#c5c5c5",
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
     "editorCursor.foreground": "#aeafad",
@@ -226,7 +229,7 @@
     "editorInfo.foreground": "#75beff",
     "editorLightBulb.foreground": "#ffcc00",
     "editorLightBulbAutoFix.foreground": "#75beff",
-    "editorLineNumber.activeForeground": "#c6c6c6",
+    "editorLineNumber.activeForeground": "#c5c5c5",
     "editorMarkerNavigationError.background": "#ff5555",
     "editorMarkerNavigationInfo.background": "#75beff",
     "editorMarkerNavigationWarning.background": "#66ea90",
@@ -257,8 +260,6 @@
     "inputValidation.errorBackground": "#5a1d1d",
     "inputValidation.infoBackground": "#063b49",
     "inputValidation.warningBackground": "#352a05",
-    "list.filterMatchBackground": "#ffffff40",
-    "list.invalidItemForeground": "#b89500",
     "menu.background": "#1a1d2c",
     "menu.foreground": "#ffffff",
     "menu.selectionBackground": "#44475a",
@@ -1050,7 +1051,7 @@
         "punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#E9F284"
+        "foreground": "#FFFC59"
       }
     },
     {
@@ -1059,7 +1060,7 @@
         "punctuation.support.type.property-name.end"
       ],
       "settings": {
-        "foreground": "#8BE9FE"
+        "foreground": "#FFFC59"
       }
     },
     {

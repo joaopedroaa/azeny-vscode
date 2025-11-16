@@ -16,9 +16,9 @@ function writeThemeFile(themeConfig) {
     // Escreve o arquivo JSON final com formatação (espaçamento de 2)
     fs.writeFileSync(outputPath, JSON.stringify(themeConfig, null, 2));
 
-    console.log(`✅ ${name} - gerado com sucesso em: ${outputPath}`);
+    console.log(`✅ ${name} - ${outputPath}`);
   } catch (err) {
-    console.error('❌ ${name} - Erro ao gerar o tema:', err);
+    console.error('❌ ${name} ', err);
   }
 }
 

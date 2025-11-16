@@ -1,8 +1,8 @@
 import baseColors from '../themes/baseColors.js';
 
 function createConfigTheme(configTheme) {
-  const { name, type, palette } = configTheme;
-  const { colors, tokenColors } = baseColors(palette);
+  const { name, type } = configTheme;
+  const { colors, tokenColors } = baseColors(configTheme);
   const theme = {
     name: name,
     type: type,
